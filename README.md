@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zainsan152
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning php, node js
+- 🌱 I’m currently working on PHP, Laravel
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : zain.san.su.152@gmail.com
 
